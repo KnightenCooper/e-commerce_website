@@ -21,4 +21,9 @@ app.use(shopRoutes);
 
 app.use(errorController.get404);
 
-app.listen(3000);
+// app.listen(3000);
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 8000;
+}
+app.listen(port);
