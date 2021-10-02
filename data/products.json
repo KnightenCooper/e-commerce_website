@@ -1,1 +1,73 @@
-[{"id":"123245","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"id":"0.41607315815753076","title":"fasfd","imageUrl":"fdasfs","description":"fadsfads","price":"12"}]
+[{
+    "id": "1",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+}, {
+    "id": "2",
+    "title": "A Spoon",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/140000/velka/wooden-spoon.jpg",
+    "description": "This is an awesome spoon!",
+    "price": "15"
+}, {
+    "id": "3",
+    "title": "Vintage Roller Skates",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/220000/t2/vintage-roller-skates-1494149757zgk.jpg",
+    "description": "This is an awesome pair of vintage roller skates!",
+    "price": "12"
+}, {
+    "id": "4",
+    "title": "Wicker Bike",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/t2/wicker_bike.jpg",
+    "description": "This is an awesome wicker bike!",
+    "price": "28"
+}, {
+    "id": "5",
+    "title": "Hot Water Bottle",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/20000/velka/hot-water-bottle.jpg",
+    "description": "This is an awesome hot water bottle!",
+    "price": "19"
+}, {
+    "id": "6",
+    "title": "Slotted Spoon",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/140000/t2/slotted-spoon.jpg",
+    "description": "This is an awesome slotted spoon!",
+    "price": "22"
+}, {
+    "id": "7",
+    "title": "Backpack",
+    "imageUrl": "https://as1.ftcdn.net/jpg/02/76/38/14/220_F_276381480_HvHMd22AHXzT1PSIGHQTvJUm4Rd18mkG.jpg",
+    "description": "This is an awesome backpack!",
+    "price": "31"
+}, {
+    "id": "8",
+    "title": "Pencil",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/310000/t2/pencil.png",
+    "description": "This is an awesome pencil!",
+    "price": "3"
+}, {
+    "id": "9",
+    "title": "Calculator",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/280000/t2/pocket-calculator-1542972411f5U.jpg",
+    "description": "This is an awesome calculator!",
+    "price": "42"
+}, {
+    "id": "10",
+    "title": "Fishing Pole",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/30000/t2/fishing-pole.jpg",
+    "description": "This is an awesome fishing pole!",
+    "price": "25"
+}, {
+    "id": "11",
+    "title": "Pocket Knife",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/t2/1-12420681401bD2.jpg",
+    "description": "This is an awesome pocket knife!",
+    "price": "27"
+}, {
+    "id": "12",
+    "title": "Scissors",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/140000/t2/-1445320048T78.jpg",
+    "description": "This is an awesome pair of scissors!",
+    "price": "13"
+}]
